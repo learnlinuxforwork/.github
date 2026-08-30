@@ -1,0 +1,47 @@
+# Learn Linux For Work
+
+Free, open-source Linux and DevOps training built for people who use Linux
+**on the job** — sysadmins, support engineers, and anyone moving from
+desktop user to professional. Every course is hands-on, distro-honest, and
+comes with home-lab and cloud-lab setup guides.
+
+No paywalls. No sign-ups. Clone a repo and start.
+
+---
+
+## 📚 Certification courses
+
+| Course | Exam | Length | For |
+|---|---|---|---|
+| [**lpi-essentials**](https://github.com/learnlinuxforwork/lpi-essentials) | LPI Linux Essentials (010-160) | 6 weeks | Complete beginners — no prerequisites, no assumed experience |
+| [**lfcs**](https://github.com/learnlinuxforwork/lfcs) | Linux Foundation Certified System Administrator | 12 weeks | Distro-neutral working sysadmin skills |
+| [**rhcsa**](https://github.com/learnlinuxforwork/rhcsa) | RHCSA (EX200, RHEL 10) | 12 weeks | Red Hat administrators — 12 lab guides, every objective covered |
+
+## 🗺️ Roadmaps
+
+| Repo | What it is |
+|---|---|
+| [**free-devops-roadmap**](https://github.com/learnlinuxforwork/free-devops-roadmap) | 54-week self-study path from Linux fundamentals to *AWS Certified DevOps Engineer – Professional*. RHCSA + 5 AWS certs, home-lab guides, hands-on labs. |
+
+## 🖥️ Desktop & workplace tooling
+
+| Repo | What it does |
+|---|---|
+| [**linux-desktop-for-work**](https://github.com/learnlinuxforwork/linux-desktop-for-work) | Turning a Linux desktop into a daily work machine. |
+| [**linux-govcac**](https://github.com/learnlinuxforwork/linux-govcac) | One script to set up CAC/PIV smartcard readers on government or corporate Linux desktops. |
+| [**vmware-workstation-linux**](https://github.com/learnlinuxforwork/vmware-workstation-linux) | Fix VMware Workstation on Secure Boot Linux (signs the `vmmon`/`vmnet` modules) — single machine or automated lab fleets. |
+
+---
+
+## Where to start
+
+- **New to Linux?** → [lpi-essentials](https://github.com/learnlinuxforwork/lpi-essentials), then [lfcs](https://github.com/learnlinuxforwork/lfcs)
+- **Already comfortable in a terminal?** → [lfcs](https://github.com/learnlinuxforwork/lfcs) or [rhcsa](https://github.com/learnlinuxforwork/rhcsa)
+- **Heading toward a DevOps/cloud role?** → [free-devops-roadmap](https://github.com/learnlinuxforwork/free-devops-roadmap)
+- **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
+
+## Contributing
+
+Issues and pull requests are welcome on any repo — fixes, clarifications,
+extra labs, or notes on newer distro/exam versions. Each repo is MIT
+licensed unless noted otherwise.
