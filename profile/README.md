@@ -1,9 +1,9 @@
 # Learn Linux For Work
 
-Free, open-source Linux and DevOps training built for people who use Linux
-**on the job** — sysadmins, support engineers, and anyone moving from
-desktop user to professional. Every course is hands-on, distro-honest, and
-comes with home-lab and cloud-lab setup guides.
+Free, open-source Linux, DevOps, and security training built for people who
+use Linux **on the job** — sysadmins, support engineers, and anyone moving
+from desktop user to professional. Every course is hands-on, distro-honest,
+and comes with home-lab and cloud-lab setup guides.
 
 No paywalls. No sign-ups. Clone a repo and start.
 
@@ -16,6 +16,7 @@ No paywalls. No sign-ups. Clone a repo and start.
 | [**lpi-essentials**](https://github.com/learnlinuxforwork/lpi-essentials) | LPI Linux Essentials (010-160) | 6 weeks | Complete beginners — no prerequisites, no assumed experience |
 | [**lfcs**](https://github.com/learnlinuxforwork/lfcs) | Linux Foundation Certified System Administrator | 12 weeks | Distro-neutral working sysadmin skills |
 | [**rhcsa**](https://github.com/learnlinuxforwork/rhcsa) | RHCSA (EX200, RHEL 10) | 12 weeks | Red Hat administrators — 12 lab guides, every objective covered |
+| [**securityplusv8**](https://github.com/learnlinuxforwork/securityplusv8) | CompTIA Security+ (SY0-801 V8) | 15 weeks | Your first cybersecurity certification — all 5 domains, all 27 objectives |
 
 ## 🗺️ Roadmaps
 
@@ -37,11 +38,12 @@ No paywalls. No sign-ups. Clone a repo and start.
 
 - **New to Linux?** → [lpi-essentials](https://github.com/learnlinuxforwork/lpi-essentials), then [lfcs](https://github.com/learnlinuxforwork/lfcs)
 - **Already comfortable in a terminal?** → [lfcs](https://github.com/learnlinuxforwork/lfcs) or [rhcsa](https://github.com/learnlinuxforwork/rhcsa)
+- **Moving into security?** → [securityplusv8](https://github.com/learnlinuxforwork/securityplusv8), the industry-baseline cert most security job postings name by name
 - **Heading toward a DevOps/cloud role?** → [free-devops-roadmap](https://github.com/learnlinuxforwork/free-devops-roadmap)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
 
 ## Contributing
 
 Issues and pull requests are welcome on any repo — fixes, clarifications,
-extra labs, or notes on newer distro/exam versions. Each repo is MIT
-licensed unless noted otherwise.
+extra labs, or notes on newer distro/exam versions. Each repo is licensed
+AGPL-3.0-or-later unless noted otherwise.
