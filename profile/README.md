@@ -5,7 +5,7 @@ use Linux **on the job** — sysadmins, support engineers, and anyone moving
 from desktop user to professional. Every course is hands-on, distro-honest,
 and comes with home-lab and cloud-lab setup guides.
 
-**Support Learn Linux for Work.** An open source project of Shea's Tech, LLC
+**[Support Learn Linux for Work.](https://pay.sheastech.io/b/aEU039dindBv6UU14l)** An open source project of Shea's Tech, LLC
 
 Course websites are open to everyone; course repositories are private: contact
 **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io) for access.
