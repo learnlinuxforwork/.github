@@ -31,7 +31,7 @@ Course websites are open to everyone; course repositories are private: contact
 
 | Repo | What it is |
 |---|---|
-| 🔒 [**aws-devops**](https://free.learnlinuxforwork.com) | 54-week self-study path from Linux fundamentals to *AWS Certified DevOps Engineer – Professional*. RHCSA + 5 AWS certs, home-lab guides, hands-on labs. |
+| 🔒 [**aws-devops**](https://aws.learnlinuxforwork.com) | 54-week self-study path from Linux fundamentals to *AWS Certified DevOps Engineer – Professional*. RHCSA + 5 AWS certs, home-lab guides, hands-on labs. |
 
 > [!NOTE]
 > 🔒 The roadmap's repository is **private**; the link opens its public website.
@@ -61,7 +61,7 @@ These repos are private; each link opens a public page that explains how to requ
 - **New to Linux?** → [lpi-essentials](https://lpi.learnlinuxforwork.com), then [lfcs](https://lfcs.learnlinuxforwork.com)
 - **Already comfortable in a terminal?** → [lfcs](https://lfcs.learnlinuxforwork.com) or [rhcsa](https://rhcsa.learnlinuxforwork.com)
 - **Moving into security?** → [securityplusv8](https://securityplusv8.learnlinuxforwork.com), the industry-baseline cert most security job postings name by name
-- **Heading toward a DevOps/cloud role?** → [aws-devops](https://free.learnlinuxforwork.com)
+- **Heading toward a DevOps/cloud role?** → [aws-devops](https://aws.learnlinuxforwork.com)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
 - **Enrolled student setting up an engineering workstation?** → [**Linux-Engineer**](https://engineer.learnlinuxforwork.com) (contact [school@sheastech.io](mailto:school@sheastech.io) for access)
 
