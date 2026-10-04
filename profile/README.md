@@ -32,6 +32,15 @@ No paywalls. No sign-ups. Clone a repo and start.
 | [**linux-govcac**](https://github.com/learnlinuxforwork/linux-govcac) | One script to set up CAC/PIV smartcard readers on government or corporate Linux desktops. |
 | [**vmware-workstation-linux**](https://github.com/learnlinuxforwork/vmware-workstation-linux) | Fix VMware Workstation on Secure Boot Linux (signs the `vmmon`/`vmnet` modules) — single machine or automated lab fleets. |
 
+## 🔒 Student repos (invitation only)
+
+These repos are private. Enrolled students are added to them by the instructor.
+
+| Repo | What it does |
+|---|---|
+| **Linux-Engineer** | One script that turns a fresh Ubuntu 26.04 LTS or Rocky Linux 10 install into a DevOps / Linux engineer desktop. It checks your hardware first, then installs cloud CLIs, containers, Kubernetes, networking and remote-access tools, plus a pre-configured OBS. Includes a 41-task path from beginner to expert. |
+| **OBS** | OBS Studio tuned for recording 1080p60 YouTube videos on Linux, with Intel QuickSync encoding, a clean mic chain and a lag-free webcam. Included in Linux-Engineer. |
+
 ---
 
 ## Where to start
@@ -41,6 +50,7 @@ No paywalls. No sign-ups. Clone a repo and start.
 - **Moving into security?** → [securityplusv8](https://github.com/learnlinuxforwork/securityplusv8), the industry-baseline cert most security job postings name by name
 - **Heading toward a DevOps/cloud role?** → [free-devops-roadmap](https://github.com/learnlinuxforwork/free-devops-roadmap)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
+- **Enrolled student setting up an engineering workstation?** → **Linux-Engineer** (ask your instructor for access)
 
 ## Contributing
 
