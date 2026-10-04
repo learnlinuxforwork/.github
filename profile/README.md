@@ -43,12 +43,12 @@ Course websites are open to everyone; course repositories are private: contact
 
 ## 🔒 Student repos (invitation only)
 
-These repos are private. To request access, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
+These repos are private; each link opens a public page that explains how to request access. To request access, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
 
 | Repo | What it does |
 |---|---|
-| **Linux-Engineer** | One script that turns a fresh Ubuntu 26.04 LTS or Rocky Linux 10 install into a DevOps / Linux engineer desktop. It checks your hardware first, then installs cloud CLIs, containers, Kubernetes, networking and remote-access tools, plus a pre-configured OBS. Includes a 41-task path from beginner to expert. |
-| **OBS** | OBS Studio tuned for recording 1080p60 YouTube videos on Linux, with Intel QuickSync encoding, a clean mic chain and a lag-free webcam. Included in Linux-Engineer. |
+| 🔒 [**Linux-Engineer**](https://learnlinuxforwork.github.io/Linux-Engineer/) | One script that turns a fresh Ubuntu 26.04 LTS or Rocky Linux 10 install into a DevOps / Linux engineer desktop. It checks your hardware first, then installs cloud CLIs, containers, Kubernetes, networking and remote-access tools, plus a pre-configured OBS. Includes a 41-task path from beginner to expert. |
+| 🔒 [**OBS**](https://learnlinuxforwork.github.io/OBS/) | OBS Studio tuned for recording 1080p60 YouTube videos on Linux, with Intel QuickSync encoding, a clean mic chain and a lag-free webcam. Included in Linux-Engineer. |
 
 ---
 
@@ -59,7 +59,7 @@ These repos are private. To request access, contact **Shea's Tech** at [school@s
 - **Moving into security?** → [securityplusv8](https://securityplusv8.learnlinuxforwork.com), the industry-baseline cert most security job postings name by name
 - **Heading toward a DevOps/cloud role?** → [aws-devops](https://github.com/learnlinuxforwork/aws-devops)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
-- **Enrolled student setting up an engineering workstation?** → **Linux-Engineer** (contact [school@sheastech.io](mailto:school@sheastech.io) for access)
+- **Enrolled student setting up an engineering workstation?** → [**Linux-Engineer**](https://learnlinuxforwork.github.io/Linux-Engineer/) (contact [school@sheastech.io](mailto:school@sheastech.io) for access)
 
 ## Contributing
 
