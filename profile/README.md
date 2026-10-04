@@ -5,7 +5,8 @@ use Linux **on the job** — sysadmins, support engineers, and anyone moving
 from desktop user to professional. Every course is hands-on, distro-honest,
 and comes with home-lab and cloud-lab setup guides.
 
-No paywalls. No sign-ups. Clone a repo and start.
+No paywalls. Course websites are open to everyone; course repositories are private: contact
+**Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io) for access.
 
 ---
 
@@ -13,10 +14,16 @@ No paywalls. No sign-ups. Clone a repo and start.
 
 | Course | Exam | Length | For |
 |---|---|---|---|
-| [**lpi-essentials**](https://github.com/learnlinuxforwork/lpi-essentials) | LPI Linux Essentials (010-160) | 6 weeks | Complete beginners — no prerequisites, no assumed experience |
-| [**lfcs**](https://github.com/learnlinuxforwork/lfcs) | Linux Foundation Certified System Administrator | 12 weeks | Distro-neutral working sysadmin skills |
-| [**rhcsa**](https://github.com/learnlinuxforwork/rhcsa) | RHCSA (EX200, RHEL 10) | 12 weeks | Red Hat administrators — 12 lab guides, every objective covered |
-| [**securityplusv8**](https://github.com/learnlinuxforwork/securityplusv8) | CompTIA Security+ (SY0-801 V8) | 15 weeks | Your first cybersecurity certification — all 5 domains, all 27 objectives |
+| 🔒 [**lpi-essentials**](https://lpi.learnlinuxforwork.com) | LPI Linux Essentials (010-160) | 6 weeks | Complete beginners — no prerequisites, no assumed experience |
+| 🔒 [**lfcs**](https://lfcs.learnlinuxforwork.com) | Linux Foundation Certified System Administrator | 12 weeks | Distro-neutral working sysadmin skills |
+| 🔒 [**rhcsa**](https://rhcsa.learnlinuxforwork.com) | RHCSA (EX200, RHEL 10) | 12 weeks | Red Hat administrators — 12 lab guides, every objective covered |
+| 🔒 [**securityplusv8**](https://securityplusv8.learnlinuxforwork.com) | CompTIA Security+ (SY0-801 V8) | 15 weeks | Your first cybersecurity certification — all 5 domains, all 27 objectives |
+
+> [!NOTE]
+> 🔒 The course repositories are **private**; each link above opens the course's public website.
+> To get access to a repository, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
+> Courses are licensed under the [GNU AGPL v3.0 or later](https://learnlinuxforwork.com/license) and covered by the
+> [Learn Linux for Work terms and conditions](https://learnlinuxforwork.com/terms).
 
 ## 🗺️ Roadmaps
 
@@ -34,7 +41,7 @@ No paywalls. No sign-ups. Clone a repo and start.
 
 ## 🔒 Student repos (invitation only)
 
-These repos are private. Enrolled students are added to them by the instructor.
+These repos are private. To request access, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
 
 | Repo | What it does |
 |---|---|
@@ -45,15 +52,17 @@ These repos are private. Enrolled students are added to them by the instructor.
 
 ## Where to start
 
-- **New to Linux?** → [lpi-essentials](https://github.com/learnlinuxforwork/lpi-essentials), then [lfcs](https://github.com/learnlinuxforwork/lfcs)
-- **Already comfortable in a terminal?** → [lfcs](https://github.com/learnlinuxforwork/lfcs) or [rhcsa](https://github.com/learnlinuxforwork/rhcsa)
-- **Moving into security?** → [securityplusv8](https://github.com/learnlinuxforwork/securityplusv8), the industry-baseline cert most security job postings name by name
+- **New to Linux?** → [lpi-essentials](https://lpi.learnlinuxforwork.com), then [lfcs](https://lfcs.learnlinuxforwork.com)
+- **Already comfortable in a terminal?** → [lfcs](https://lfcs.learnlinuxforwork.com) or [rhcsa](https://rhcsa.learnlinuxforwork.com)
+- **Moving into security?** → [securityplusv8](https://securityplusv8.learnlinuxforwork.com), the industry-baseline cert most security job postings name by name
 - **Heading toward a DevOps/cloud role?** → [free-devops-roadmap](https://github.com/learnlinuxforwork/free-devops-roadmap)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
-- **Enrolled student setting up an engineering workstation?** → **Linux-Engineer** (ask your instructor for access)
+- **Enrolled student setting up an engineering workstation?** → **Linux-Engineer** (contact [school@sheastech.io](mailto:school@sheastech.io) for access)
 
 ## Contributing
 
-Issues and pull requests are welcome on any repo — fixes, clarifications,
-extra labs, or notes on newer distro/exam versions. Each repo is licensed
-AGPL-3.0-or-later unless noted otherwise.
+Issues and pull requests are welcome on the public repos, and on the private
+course repos once you have access: fixes, clarifications, extra labs, or notes
+on newer distro/exam versions. Each repo is licensed
+[AGPL-3.0-or-later](https://learnlinuxforwork.com/license) unless noted otherwise,
+and use of the courses is covered by the [terms and conditions](https://learnlinuxforwork.com/terms).
