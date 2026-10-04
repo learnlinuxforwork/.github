@@ -47,7 +47,7 @@ These repos are private; each link opens a public page that explains how to requ
 
 | Repo | What it does |
 |---|---|
-| 🔒 [**Linux-Engineer**](https://engineer.learnlinuxforwork.com) | One script that turns a fresh Ubuntu 26.04 LTS or Rocky Linux 10 install into a DevOps / Linux engineer desktop. It checks your hardware first, then installs cloud CLIs, containers, Kubernetes, networking and remote-access tools, plus a pre-configured OBS. Includes a 41-task path from beginner to expert. |
+| 🔒 [**Linux-Engineer**](https://engineer.learnlinuxforwork.com) | One script that turns a fresh Ubuntu 26.04 LTS, RHEL 10.2, Rocky Linux 10 or NixOS 26.05 install into a DevOps / Linux engineer desktop. It checks your hardware first, then installs cloud CLIs, containers, Kubernetes, VirtualBox, networking and remote-access tools, plus a pre-configured OBS. Includes a 44-task path from beginner to expert. |
 | 🔒 [**OBS**](https://obs.learnlinuxforwork.com) | OBS Studio tuned for recording 1080p60 YouTube videos on Linux, with Intel QuickSync encoding, a clean mic chain and a lag-free webcam. Included in Linux-Engineer. |
 
 ---
