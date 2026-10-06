@@ -19,12 +19,13 @@ Course websites are open to everyone; course repositories are private: contact
 | 🔒 [**lpi-essentials**](https://lpi.learnlinuxforwork.com) | LPI Linux Essentials (010-160) | 6 weeks | Complete beginners — no prerequisites, no assumed experience |
 | 🔒 [**lfcs**](https://lfcs.learnlinuxforwork.com) | Linux Foundation Certified System Administrator | 12 weeks | Distro-neutral working sysadmin skills |
 | 🔒 [**rhcsa**](https://rhcsa.learnlinuxforwork.com) | RHCSA (EX200, RHEL 10) | 12 weeks | Red Hat administrators — 12 lab guides, every objective covered |
+| 🔒 [**rhcsalabs**](https://rhcsalabs.learnlinuxforwork.com) | RHCSA (EX200, RHEL 10) | 62 labs | Hands-on exam practice — one lab for every EX200 objective on a disposable Rocky Linux 10 server, with a progress dashboard from Cadet to Admiral |
 | 🔒 [**securityplusv8**](https://securityplusv8.learnlinuxforwork.com) | CompTIA Security+ (SY0-801 V8) | 15 weeks | Your first cybersecurity certification — all 5 domains, all 27 objectives |
 
 > [!NOTE]
 > 🔒 The course repositories are **private**; each link above opens the course's public website.
 > To get access to a repository, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
-> Courses are licensed under the [GNU AGPL v3.0 or later](https://learnlinuxforwork.com/license) and covered by the
+> Courses are licensed under the [GNU AGPL v3.0 or later](https://learnlinuxforwork.com/license) (**rhcsalabs** is [MIT](https://opensource.org/license/mit)) and covered by the
 > [Learn Linux for Work terms and conditions](https://learnlinuxforwork.com/terms).
 
 ## 🗺️ Roadmaps
@@ -60,6 +61,7 @@ These repos are private; each link opens a public page that explains how to requ
 
 - **New to Linux?** → [lpi-essentials](https://lpi.learnlinuxforwork.com), then [lfcs](https://lfcs.learnlinuxforwork.com)
 - **Already comfortable in a terminal?** → [lfcs](https://lfcs.learnlinuxforwork.com) or [rhcsa](https://rhcsa.learnlinuxforwork.com)
+- **Practising for the RHCSA exam?** → [rhcsalabs](https://rhcsalabs.learnlinuxforwork.com): one hands-on lab for every EX200 objective
 - **Moving into security?** → [securityplusv8](https://securityplusv8.learnlinuxforwork.com), the industry-baseline cert most security job postings name by name
 - **Heading toward a DevOps/cloud role?** → [aws-devops](https://aws.learnlinuxforwork.com)
 - **Running Linux as your work desktop?** → [linux-desktop-for-work](https://github.com/learnlinuxforwork/linux-desktop-for-work)
@@ -69,6 +71,6 @@ These repos are private; each link opens a public page that explains how to requ
 
 Issues and pull requests are welcome on the public repos, and on the private
 course repos once you have access: fixes, clarifications, extra labs, or notes
-on newer distro/exam versions. Each repo is licensed
+on newer distro/exam versions. Found a problem in **rhcsalabs**? Use *Report a Problem* at the bottom of the menu on [rhcsalabs.learnlinuxforwork.com](https://rhcsalabs.learnlinuxforwork.com) for how to request access and open an issue. Each repo is licensed
 [AGPL-3.0-or-later](https://learnlinuxforwork.com/license) unless noted otherwise,
 and use of the courses is covered by the [terms and conditions](https://learnlinuxforwork.com/terms).
