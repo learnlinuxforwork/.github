@@ -22,22 +22,13 @@ Course websites are open to everyone; course repositories are private: contact
 | 🔒 [**rhcsalabs**](https://rhcsalabs.learnlinuxforwork.com) | RHCSA (EX200, RHEL 10) | 62 labs | Hands-on exam practice — one lab for every EX200 objective on a disposable Rocky Linux 10 server, with a progress dashboard from Cadet to Admiral |
 | 🔒 [**rhce**](https://rhce.learnlinuxforwork.com) | RHCE (EX294, RHEL 10) | 9 weeks · 56 labs | Ansible automation for Red Hat administrators — one lab for every EX294 objective on a pair of disposable Rocky Linux 10 servers, ten mock exams and a linked 9-week study plan |
 | 🔒 [**securityplusv8**](https://securityplusv8.learnlinuxforwork.com) | CompTIA Security+ (SY0-801 V8) | 15 weeks | Your first cybersecurity certification — all 5 domains, all 27 objectives |
+| 🔒 [**aws-devops**](https://aws.learnlinuxforwork.com) | AWS SAA-C03, SOA-C03 and DOP-C02 | 54 weeks · 73 labs | Linux to AWS Certified DevOps Engineer – Professional — all three exam guides covered, a day-one DevOps skills track, 17 mock exams and a GovTech employers list |
 
 > [!NOTE]
 > 🔒 The course repositories are **private**; each link above opens the course's public website.
 > To get access to a repository, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
-> The course sites (**rhcsa**, **rhce**, **rhcsalabs**, **lfcs**, **lpi-essentials**, **securityplusv8**) are released under the [MIT License](https://opensource.org/license/mit) and covered by the
+> The course sites (**rhcsa**, **rhce**, **rhcsalabs**, **lfcs**, **lpi-essentials**, **securityplusv8**, **aws-devops**) are released under the [MIT License](https://opensource.org/license/mit) and covered by the
 > [Learn Linux for Work terms and conditions](https://learnlinuxforwork.com/terms).
-
-## 🗺️ Roadmaps
-
-| Repo | What it is |
-|---|---|
-| 🔒 [**aws-devops**](https://aws.learnlinuxforwork.com) | 54-week self-study path from Linux fundamentals to *AWS Certified DevOps Engineer – Professional*. RHCSA + 5 AWS certs, home-lab guides, hands-on labs. |
-
-> [!NOTE]
-> 🔒 The roadmap's repository is **private**; the link opens its public website.
-> To get access to the repository, contact **Shea's Tech** at [school@sheastech.io](mailto:school@sheastech.io).
 
 ## 🖥️ Desktop & workplace tooling
 
@@ -73,6 +64,5 @@ These repos are private; each link opens a public page that explains how to requ
 
 Issues and pull requests are welcome on the public repos, and on the private
 course repos once you have access: fixes, clarifications, extra labs, or notes
-on newer distro/exam versions. Found a problem in **rhcsalabs**? Use *Report a Problem* at the bottom of the menu on [rhcsalabs.learnlinuxforwork.com](https://rhcsalabs.learnlinuxforwork.com) for how to request access and open an issue. The course sites are MIT; the other repos are licensed
-[AGPL-3.0-or-later](https://learnlinuxforwork.com/license) unless noted otherwise,
+on newer distro/exam versions. Found a problem in **rhcsalabs**? Use *Report a Problem* at the bottom of the menu on [rhcsalabs.learnlinuxforwork.com](https://rhcsalabs.learnlinuxforwork.com) for how to request access and open an issue. Courses and new projects are released under the [MIT License](https://opensource.org/license/mit) unless noted otherwise,
 and use of the courses is covered by the [terms and conditions](https://learnlinuxforwork.com/terms).
